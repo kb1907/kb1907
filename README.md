@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kb1907
-- 👀 I’m interested in Pyhton, JavaScript, Data Science, Machine Learning, NLP,AI, and Web Development
-- 🌱 I’m currently learning new languages
-- 💞️ I’m looking to collaborate on different projects
+- 👀 I’m interested in Pyhton, JavaScript, Data Science, Machine Learning, NLP,AI, and Web Development.
+- 🌱 I’m currently working on new project.
+- 💞️ I’m looking to collaborate on different projects.
 - 📫 How to reach me: 
 
 <!---
