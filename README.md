@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kb1907
+- 👋 Hi, 
 - 👀 I’m interested in Pyhton, JavaScript, Data Science, Machine Learning, NLP,AI, and Web Development.
 - 🌱 I’m currently working on new project.
 - 💞️ I’m looking to collaborate on different projects.
-- 📫 How to reach me: 
 
 <!---
 kb1907/kb1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
