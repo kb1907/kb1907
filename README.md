@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pyhton, Data Science, Machine Learning, Deep Learning, NLP,AI, AWS, Big Data.
 - 🌱 I’m currently working on new project.
 - 💞️ I’m looking to collaborate on different projects.
-- I regulary publish beginner friendly notebooks on the [Kaggle](https://www.kaggle.com/kaanboke) 
+
 
 
 1. [Machine Learning Projects](https://github.com/kb1907/Machine_Learning_Projects/blob/main/README.md)
@@ -14,6 +14,7 @@
 ![](https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg)
 
 
+- I regulary publish beginner friendly notebooks on the [Kaggle](https://www.kaggle.com/kaanboke) 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaanboke/notebook/light)
 
 - All the best 🤘
