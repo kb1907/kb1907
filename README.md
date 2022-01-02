@@ -13,8 +13,8 @@
 ## [NLP Projects](https://github.com/kb1907/NLP_Projects)
 ![](https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg)
 
-
-- I regulary publish beginner friendly notebooks on the [Kaggle](https://www.kaggle.com/kaanboke) 
+## [Kaggle](https://www.kaggle.com/kaanboke) 
+- I regulary publish beginner friendly notebooks on the Kaggle
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaanboke/notebook/light)
 
