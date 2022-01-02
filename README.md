@@ -15,6 +15,7 @@
 
 
 - I regulary publish beginner friendly notebooks on the [Kaggle](https://www.kaggle.com/kaanboke) 
+
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaanboke/notebook/light)
 
 - All the best 🤘
