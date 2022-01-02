@@ -5,7 +5,7 @@
 - I regulary publish beginner friendly notebooks on the [Kaggle](https://www.kaggle.com/kaanboke) 
 
 ### Machine Learning Projects 
-[](https://github.com/kb1907/Machine_Learning_Projects/blob/main/README.md)
+[Machine Learning Projects](https://github.com/kb1907/Machine_Learning_Projects/blob/main/README.md)
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaanboke/notebook/light)
 
