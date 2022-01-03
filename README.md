@@ -4,7 +4,7 @@
 
    I am eager to learn and share.
 
-   Join me to learn and share in this magnificent learning journey.
+   [Join me to learn and share in this magnificent learning journey.](https://www.linkedin.com/in/kaanboke/)
 
    All the best 🤘
 
