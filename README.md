@@ -18,7 +18,7 @@
 ![](https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png)
 
 
-## [Deep Learning Projects](https://github.com/kb1907/Data_Science_Projects)
+## [Deep Learning Projects](https://github.com/kb1907/Deep_Learning_Projects)
 
 <img src="https://miro.medium.com/max/1000/1*yrgbW7GvOcp94f-5HZcmyQ.jpeg" width="500" height="500">
 
