@@ -17,7 +17,7 @@
 
 ![](https://miro.medium.com/max/600/0*QYxNNYh6W9jO1b_-.png)
 
-## [NLP Projects](https://github.com/kb1907/NLP_Projects)
+## [NLP Projects](https://github.com/kb1907/NLP_Projects/blob/main/README.md)
 ![](https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg)
 
 
