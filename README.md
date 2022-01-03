@@ -21,7 +21,7 @@
 ![](https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg)
 
 
-## [Data Science Projects - Detailed EDAs](https://github.com/kb1907/Data_Science_Projects)
+## [Data Science Projects - Detailed EDAs](https://github.com/kb1907/Data_Science_Projects/blob/main/README.md)
 ![](https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png)
 
 
