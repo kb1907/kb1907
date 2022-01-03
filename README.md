@@ -6,7 +6,7 @@
 
    Join me to learn and share in this magnificent learning journey.
 
-   All the best 👍
+   All the best 🤘
 
 
 
@@ -40,7 +40,6 @@
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaanboke/notebook/light)
 
-- All the best 🤘
 
 <!---
 kb1907/kb1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
