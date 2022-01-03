@@ -23,6 +23,11 @@
 <img src="https://miro.medium.com/max/1000/1*yrgbW7GvOcp94f-5HZcmyQ.jpeg" width="500" height="500">
 
 
+## [Time Series Projects](https://github.com/kb1907/Time_Series_Projects)
+
+<img src="https://www.vskills.in/certification/blog/wp-content/uploads/2014/11/Forecasting.jpg" width="500" height="500">
+
+
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
 - I regulary publish beginner friendly notebooks on the Kaggle
 
