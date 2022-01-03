@@ -1,7 +1,13 @@
-- 👋 Hi, 
-- 👀 I’m interested in Pyhton, Data Science, Machine Learning, Deep Learning, NLP,AI, AWS, Big Data.
-- 🌱 I’m currently working on new project.
-- 💞️ I’m looking to collaborate on different projects.
+- Greetings from beautiful Finland.
+
+As a Data Scientist, I love to make analyses, evaluations, predictions, develop strategies and new projects.
+
+I am eager to learn and share.
+
+Join me to learn and share in this magnificent learning journey.
+
+All the best 👍
+
 
 
 
