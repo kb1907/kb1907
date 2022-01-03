@@ -37,6 +37,11 @@
 <img src="https://www.vskills.in/certification/blog/wp-content/uploads/2014/11/Forecasting.jpg" width="500" height="500">
 
 
+## [Web Scraping Projects](https://github.com/kb1907/Web_Scraping_Projects/blob/main/README.md)
+
+<img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="550" height="450">
+
+
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
 - I regulary publish beginner friendly notebooks on the Kaggle
 
