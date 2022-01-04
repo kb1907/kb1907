@@ -37,6 +37,11 @@
 ![](https://miro.medium.com/max/600/1*5C4UQznqEiN3D6Xutlgwlg.png)
 
 
+## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
+
+![](https://miro.medium.com/max/800/0*O3gm8pKaPqgKb-oM.png)
+
+
 
 ## [Time Series Projects](https://github.com/kb1907/Time_Series_Projects/blob/main/README.md)
 
