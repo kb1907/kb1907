@@ -55,6 +55,11 @@
 <img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="550" height="450">
 
 
+## Deep Learning Specialization - Projects & Notes
+
+
+
+
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
 - I regulary publish beginner friendly notebooks on the Kaggle
 
