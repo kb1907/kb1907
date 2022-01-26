@@ -57,7 +57,7 @@
 
 ## Deep Learning Specialization - Projects & Notes
 
-
+<img src="	https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="550" height="450">
 
 
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
