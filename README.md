@@ -57,11 +57,11 @@
 
 ## [Deep Learning Specialization - Projects & Notes](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
 
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="400" height="400">
+<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
-## [Natural Language Processing Specialization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
+## [Natural Language Processing Specialization - Projects & Notes](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
 
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="400" height="400">
+<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
 
 
