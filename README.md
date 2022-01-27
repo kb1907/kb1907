@@ -59,6 +59,11 @@
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="400" height="400">
 
+## [Natural Language Processing Specialization](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
+
+<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="400" height="400">
+
+
 
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
 - I regulary publish beginner friendly notebooks on the Kaggle
