@@ -36,7 +36,7 @@
 
 ## [PySpark Projects](https://github.com/kb1907/PySpark_Projects/blob/main/README.md)
 
-![](https://miro.medium.com/max/600/1*5C4UQznqEiN3D6Xutlgwlg.png)
+![](https://miro.medium.com/max/400/1*5C4UQznqEiN3D6Xutlgwlg.png)
 
 
 ## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
