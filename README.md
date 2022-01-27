@@ -41,7 +41,7 @@
 
 ## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
 
-![](https://miro.medium.com/max/800/0*O3gm8pKaPqgKb-oM.png)
+![](https://miro.medium.com/max/500/0*O3gm8pKaPqgKb-oM.png)
 
 
 
