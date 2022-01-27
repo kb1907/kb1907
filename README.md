@@ -52,12 +52,12 @@
 
 ## [Web Scraping Projects](https://github.com/kb1907/Web_Scraping_Projects/blob/main/README.md)
 
-<img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="550" height="450">
+<img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="450" height="400">
 
 
 ## [Deep Learning Specialization - Projects & Notes](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
 
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="550" height="450">
+<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="400" height="400">
 
 
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
