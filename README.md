@@ -58,11 +58,11 @@
 ## Course Projects & Notes
 --------------------------------------------
 
-## [Deep Learning Specialization - Projects & Notes](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
+## [Deep Learning Specialization - Updated Version](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
-## [Natural Language Processing Specialization - Projects & Notes](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/README.md)
+## [Natural Language Processing Specialization - Updated Version](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/README.md)
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
