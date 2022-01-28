@@ -66,6 +66,8 @@
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
+## [Practical Data Science Specialization](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/README.md)
+<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
 
 
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
