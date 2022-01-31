@@ -69,6 +69,9 @@
 
 ## [Web Scraping Projects](https://github.com/kb1907/Web_Scraping_Projects/blob/main/README.md)
 
+- In this folder, different Web Scraping projects can be found.
+
+
 <img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="450" height="400">
 
 
@@ -77,13 +80,22 @@
 
 ## [Deep Learning Specialization - Updated Version](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
 
+- In this folder, Deep Learning Specialization projects and notes can be found.
+
+
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
 ## [Natural Language Processing Specialization - Updated Version](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/README.md)
 
+- In this folder, Natural Language Processing Specialization projects and notes can be found.
+
+
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
 
 ## [Practical Data Science Specialization](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/README.md)
+
+- In this folder, Practical Data Science Specialization projects and notes can be found.
+
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
 
 
