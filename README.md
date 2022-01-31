@@ -5,6 +5,9 @@
    I am eager to learn and share.
 
    [Join me to learn and share in this magnificent learning journey.](https://www.linkedin.com/in/kaanboke/)
+   
+   [![Linkedin: hognhanhh](https://img.shields.io/badge/-Kaan BOKE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaanboke/)](https://www.linkedin.com/in/kaanboke/)
+[![GitHub Kaan BOKE](https://img.shields.io/github/followers/kb1907?label=follow&style=social)](https://github.com/kb1907)
 
    All the best 🤘
 
