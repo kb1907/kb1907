@@ -16,10 +16,13 @@
 
 - In this folder, different scale Machine Learning projects can be found.
 
+
 ![](https://miro.medium.com/max/600/0*QYxNNYh6W9jO1b_-.png)
 
 
 ## [Deep Learning Projects](https://github.com/kb1907/Deep_Learning_Projects/blob/main/README.md)
+
+- In this folder, different scale Deep Learning projects can be found.
 
 
 <img src="https://miro.medium.com/max/1000/1*yrgbW7GvOcp94f-5HZcmyQ.jpeg" width="400" height="400">
