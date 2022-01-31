@@ -76,7 +76,7 @@
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaanboke/notebook/light)
 
 ------------
-<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kb1907&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kb1907&show_icons=true&hide_border=true"/>
 
 
 
