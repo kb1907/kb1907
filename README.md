@@ -30,7 +30,6 @@
 
 - In this folder, different scale Data Science projects can be found.
 
-
 <img src="https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png" width="400" height="400">
 
 
