@@ -48,10 +48,17 @@
 
 ![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
 
-## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS)
-- FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS
+## [FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS CI-CD](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS)
+- FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS folder for MLOPS-Data Scientist Trainees and DS Aspirants.
 
 ![](https://user-images.githubusercontent.com/51021282/173734402-0470c77e-c9e8-4db9-93ba-14b46b9dc21e.png)
+
+
+[Docker-Flask-GithubActions-DockerHub CI-CD](https://github.com/kb1907/docker-demo)
+- Docker-Flask-GithubActions-DockerHub CI-CD folder for MLOPS-Data Scientist Trainees and DS Aspirants.
+
+![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
+
 
 
 ## [PySpark Projects](https://github.com/kb1907/PySpark_Projects/blob/main/README.md)
