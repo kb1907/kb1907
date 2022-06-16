@@ -43,6 +43,11 @@
 
 <img src="https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg" width="400" height="400">
 
+## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/AWS-Beanstalk-GithubActions)
+ - AWS Beanstalk - Github Actions
+
+![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
+
 
 ## [PySpark Projects](https://github.com/kb1907/PySpark_Projects/blob/main/README.md)
 
