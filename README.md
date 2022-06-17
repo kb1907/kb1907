@@ -19,7 +19,7 @@
 
 ![](https://miro.medium.com/max/600/0*QYxNNYh6W9jO1b_-.png)
 
-
+-------------------------------------------------------
 
 ## [Deep Learning Projects](https://github.com/kb1907/Deep_Learning_Projects/blob/main/README.md)
 
