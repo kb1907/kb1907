@@ -127,6 +127,7 @@
 
 <img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
 
+-------------------------------------------------------
 
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
 - I regulary publish beginner friendly notebooks on the Kaggle
@@ -136,7 +137,7 @@
 ------------
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kb1907&show_icons=true&hide_border=true"/>
 
-
+-------------------------------------------------------
 
 <!---
 kb1907/kb1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
