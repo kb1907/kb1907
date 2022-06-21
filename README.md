@@ -27,8 +27,14 @@
 
 ![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
 
+-------------------------------------------------------
+## [MLFLOW - AWS SAGEMAKER](https://github.com/kb1907/mlflow-aws-sagemaker)
+Mlflow- AWS Sagemaker folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
+
+![MLflow-models](https://user-images.githubusercontent.com/51021282/174875305-9b18954d-9ea3-468b-96da-bc713f5e27a8.jpeg)
 
 
+-------------------------------------------------------
  ## [Machine Learning Projects](https://github.com/kb1907/Machine_Learning_Projects/blob/main/README.md)
 
 - In this folder, different scale Machine Learning projects can be found.
