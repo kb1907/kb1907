@@ -8,7 +8,6 @@
 
    All the best 🤘
 
-
 -------------------------------------------------------
 
 ## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/AWS-Beanstalk-GithubActions)
