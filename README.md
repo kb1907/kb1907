@@ -26,6 +26,14 @@
 ![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
 
 -------------------------------------------------------
+
+## [Kubernetes-Flask-Docker-Github Actions](https://github.com/kb1907/Kubernetes-Flask)
+Kubernetes-Docker-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
+
+![kubernete](https://user-images.githubusercontent.com/51021282/175279133-21fd9f3d-bedf-4cd8-96aa-c11262beaea9.png)
+
+
+-------------------------------------------------------
 ## [MLFLOW - AWS SAGEMAKER](https://github.com/kb1907/mlflow-aws-sagemaker)
 Mlflow- AWS Sagemaker folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
