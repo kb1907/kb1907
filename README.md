@@ -41,7 +41,7 @@ Mlflow- AWS Sagemaker folder for MLOPS 2022 Data Scientist Trainees and DS Aspir
 -------------------------------------------------------
 
 ## [LOCUST - FLASK](https://github.com/kb1907/Locust-Flask)
-Mlflow- AWS Sagemaker folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
+Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
 ![3](https://user-images.githubusercontent.com/51021282/175613078-b29479a9-f356-4b06-9e26-a340dac31b41.png)
 
