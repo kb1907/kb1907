@@ -40,8 +40,12 @@ Mlflow- AWS Sagemaker folder for MLOPS 2022 Data Scientist Trainees and DS Aspir
 ![MLflow-models](https://user-images.githubusercontent.com/51021282/174875305-9b18954d-9ea3-468b-96da-bc713f5e27a8.jpeg)
 -------------------------------------------------------
 
+## [LOCUST - FLASK](https://github.com/kb1907/Locust-Flask)
+Mlflow- AWS Sagemaker folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
-https://github.com/kb1907/Locust-Flask
+![3](https://user-images.githubusercontent.com/51021282/175613078-b29479a9-f356-4b06-9e26-a340dac31b41.png)
+
+
 
 -------------------------------------------------------
  ## [Machine Learning Projects](https://github.com/kb1907/Machine_Learning_Projects/blob/main/README.md)
