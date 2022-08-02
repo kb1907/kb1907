@@ -148,14 +148,6 @@ Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS
 
 -------------------------------------------------------
 
-## [Python Project](https://github.com/kb1907/python-project-2022)
-
-- In this folder, we have created new python library.
-
----------------------------------------------------------
-
-
-
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
 - I regulary publish beginner friendly notebooks on the Kaggle
 
