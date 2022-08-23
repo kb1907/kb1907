@@ -7,7 +7,6 @@
    [Join me to learn and share in this magnificent learning journey.](https://www.linkedin.com/in/kaanboke/) [![Linkedin: Kaan BOKE](https://img.shields.io/badge/-KaanBOKE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaanboke/)](https://www.linkedin.com/in/kaanboke/) [![GitHub Kaan BOKE](https://img.shields.io/github/followers/kb1907?label=follow&style=social)](https://github.com/kb1907)
    
    All the best 🤘
-   
 -------------------------------------------------------
 
 ## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/AWS-Beanstalk-GithubActions)
