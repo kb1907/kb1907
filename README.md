@@ -18,23 +18,6 @@
 
 ![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
 
-## [FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS CI-CD](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS)
-- FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS folder for MLOPS-Data Scientist Trainees and DS Aspirants.
-
-![](https://user-images.githubusercontent.com/51021282/173734402-0470c77e-c9e8-4db9-93ba-14b46b9dc21e.png)
-
-
-## [Docker-Flask-GithubActions-DockerHub CI-CD](https://github.com/kb1907/docker-demo)
-- Docker-Flask-GithubActions-DockerHub CI-CD folder for MLOPS-Data Scientist Trainees and DS Aspirants.
-
-![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
-
--------------------------------------------------------
-
-## [Kubernetes-Flask-Docker-Github Actions](https://github.com/kb1907/Kubernetes-Flask)
-Kubernetes-Docker-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
-
-![kubernete](https://user-images.githubusercontent.com/51021282/175279133-21fd9f3d-bedf-4cd8-96aa-c11262beaea9.png)
 
 
 -------------------------------------------------------
@@ -51,7 +34,25 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 
 ![image](https://user-images.githubusercontent.com/51021282/194310346-48a21492-453e-4ec3-968a-a5b0d9424691.png)
 
+-------------------------------------------------------
 
+## [Kubernetes-Flask-Docker-Github Actions](https://github.com/kb1907/Kubernetes-Flask)
+Kubernetes-Docker-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
+
+![kubernete](https://user-images.githubusercontent.com/51021282/175279133-21fd9f3d-bedf-4cd8-96aa-c11262beaea9.png)
+
+
+-------------------------------------------------------
+## [FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS CI-CD](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS)
+- FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS folder for MLOPS-Data Scientist Trainees and DS Aspirants.
+
+![](https://user-images.githubusercontent.com/51021282/173734402-0470c77e-c9e8-4db9-93ba-14b46b9dc21e.png)
+
+
+## [Docker-Flask-GithubActions-DockerHub CI-CD](https://github.com/kb1907/docker-demo)
+- Docker-Flask-GithubActions-DockerHub CI-CD folder for MLOPS-Data Scientist Trainees and DS Aspirants.
+
+![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
 
 -------------------------------------------------------
 
@@ -59,7 +60,6 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
 ![3](https://user-images.githubusercontent.com/51021282/175613078-b29479a9-f356-4b06-9e26-a340dac31b41.png)
-
 
 
 -------------------------------------------------------
