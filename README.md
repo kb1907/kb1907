@@ -36,6 +36,15 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 
 -------------------------------------------------------
 
+## [PySpark Projects](https://github.com/kb1907/PySpark_Projects/blob/main/README.md)
+
+- In this folder, different scale PySpark projects can be found.
+
+
+![](https://miro.medium.com/max/400/1*5C4UQznqEiN3D6Xutlgwlg.png)
+
+-------------------------------------------------------
+
 ## [Kubernetes-Flask-Docker-Github Actions](https://github.com/kb1907/Kubernetes-Flask)
 Kubernetes-Docker-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS Aspirants.
 
@@ -97,14 +106,6 @@ Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS
 <img src="https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg" width="400" height="400">
 
 
--------------------------------------------------------
-
-## [PySpark Projects](https://github.com/kb1907/PySpark_Projects/blob/main/README.md)
-
-- In this folder, different scale PySpark projects can be found.
-
-
-![](https://miro.medium.com/max/400/1*5C4UQznqEiN3D6Xutlgwlg.png)
 
 -------------------------------------------------------
 
