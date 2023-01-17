@@ -171,7 +171,6 @@ Locust-Flask-Github Actions folder for MLOPS 2022 Data Scientist Trainees and DS
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kb1907&show_icons=true&hide_border=true"/>
 
 -------------------------------------------------------
-
 <!---
 kb1907/kb1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
