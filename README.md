@@ -11,7 +11,7 @@
    All the best 🤘
 -------------------------------------------------------
 
-## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/AWS-Beanstalk-GithubActions)
+## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/Model-Deployment-AWS-Beanstalk)
  - AWS Beanstalk - Github Actions
 
 
