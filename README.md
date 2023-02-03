@@ -47,7 +47,13 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 
 -------------------------------------------------------
 
+## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
 
+- In this folder, different scale Machine Learning / Deep Learning / NLP projects by using AWS Sagemaker can be found.
+
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="400" height="400">
+
+-------------------------------------------------------
 ## [Kubernetes-Flask-Docker-Github Actions](https://github.com/kb1907/Kubernetes-Flask)
 Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
@@ -63,13 +69,6 @@ Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS
 
 -------------------------------------------------------
 
-## [LOCUST - FLASK](https://github.com/kb1907/Locust-Flask)
-Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
-
-![3](https://user-images.githubusercontent.com/51021282/175613078-b29479a9-f356-4b06-9e26-a340dac31b41.png)
-
-
--------------------------------------------------------
  ## [Machine Learning Projects](https://github.com/kb1907/Machine_Learning_Projects/blob/main/README.md)
 
 - In this folder, different scale Machine Learning projects can be found.
@@ -104,15 +103,6 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 <img src="https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg" width="400" height="400">
 
 
-
--------------------------------------------------------
-
-## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
-
-- In this folder, different scale Machine Learning / Deep Learning / NLP projects by using AWS Sagemaker can be found.
-
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="400" height="400">
-
 -------------------------------------------------------
 
 ## [Time Series Projects](https://github.com/kb1907/Time_Series_Projects/blob/main/README.md)
@@ -122,7 +112,13 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 <img src="https://www.vskills.in/certification/blog/wp-content/uploads/2014/11/Forecasting.jpg" width="400" height="400">
 
 -------------------------------------------------------
+## [LOCUST - FLASK](https://github.com/kb1907/Locust-Flask)
+Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
+![3](https://user-images.githubusercontent.com/51021282/175613078-b29479a9-f356-4b06-9e26-a340dac31b41.png)
+
+
+-------------------------------------------------------
 ## [Web Scraping Projects](https://github.com/kb1907/Web_Scraping_Projects/blob/main/README.md)
 
 - In this folder, different Web Scraping projects can be found.
