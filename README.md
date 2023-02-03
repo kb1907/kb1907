@@ -16,14 +16,6 @@
 
 ![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
 
-
--------------------------------------------------------
-## [MLFLOW - AWS SAGEMAKER](https://github.com/kb1907/mlflow-aws-sagemaker)
-Mlflow- AWS Sagemaker folder for Data Scientist Trainees and DS Aspirants.
-
-![MLflow-models](https://user-images.githubusercontent.com/51021282/174875305-9b18954d-9ea3-468b-96da-bc713f5e27a8.jpeg)
-
-
 -------------------------------------------------------
 ## [AIRFLOW](https://github.com/kb1907/airflow-local)
 
@@ -41,11 +33,6 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 ![](https://miro.medium.com/max/400/1*5C4UQznqEiN3D6Xutlgwlg.png)
 
 -------------------------------------------------------
-## [AWS Beanstalk - Github Actions](https://github.com/kb1907/Model-Deployment-AWS-Beanstalk)
-
-![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
-
--------------------------------------------------------
 
 ## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
 
@@ -54,6 +41,19 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="400" height="400">
 
 -------------------------------------------------------
+## [MLFLOW - AWS SAGEMAKER](https://github.com/kb1907/mlflow-aws-sagemaker)
+Mlflow- AWS Sagemaker folder for Data Scientist Trainees and DS Aspirants.
+
+![MLflow-models](https://user-images.githubusercontent.com/51021282/174875305-9b18954d-9ea3-468b-96da-bc713f5e27a8.jpeg)
+
+
+-------------------------------------------------------
+## [AWS Beanstalk - Github Actions](https://github.com/kb1907/Model-Deployment-AWS-Beanstalk)
+
+![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
+
+-------------------------------------------------------
+
 ## [Kubernetes-Flask-Docker-Github Actions](https://github.com/kb1907/Kubernetes-Flask)
 Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
