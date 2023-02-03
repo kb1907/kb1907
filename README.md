@@ -11,12 +11,10 @@
    All the best 🤘
 -------------------------------------------------------
 
-## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/Model-Deployment-AWS-Beanstalk)
- - AWS Beanstalk - Github Actions
+## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial)
+- Docker-Flask-GithubActions-DockerHub CI-CD folder for MLOPS-Data Scientist Trainees and DS Aspirants.
 
-
-![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
-
+![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
 
 
 -------------------------------------------------------
@@ -43,10 +41,9 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 ![](https://miro.medium.com/max/400/1*5C4UQznqEiN3D6Xutlgwlg.png)
 
 -------------------------------------------------------
-## [Docker-Flask-GithubActions-DockerHub CI-CD](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial)
-- Docker-Flask-GithubActions-DockerHub CI-CD folder for MLOPS-Data Scientist Trainees and DS Aspirants.
+## [AWS Beanstalk - Github Actions](https://github.com/kb1907/Model-Deployment-AWS-Beanstalk)
 
-![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
+![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
 
 -------------------------------------------------------
 
