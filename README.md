@@ -160,8 +160,6 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
 - I regulary publish beginner friendly notebooks on the Kaggle
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaanboke/notebook/light)
-
 ------------
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kb1907&show_icons=true&hide_border=true"/>
 
