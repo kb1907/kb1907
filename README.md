@@ -1,6 +1,6 @@
    Greetings from beautiful Finland.
 
-   As a Data Scientist and Data Engineer, I love to make analyses, evaluations, predictions, develop strategies and new projects.
+   As a Data Scientist & Data Engineer, I love to make analyses, evaluations, predictions, develop strategies and new projects.
 
    I am eager to learn and share.
    
