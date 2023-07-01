@@ -149,7 +149,7 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
 -------------------------------------------------------
 
-## [Practical Data Science Specialization](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/README.md)
+## [Practical Data Science on the AWS Cloud Specialization](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/README.md)
 
 - In this folder, Practical Data Science Specialization projects and notes can be found.
 
