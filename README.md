@@ -83,7 +83,7 @@ Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS
 - In this folder, different scale Deep Learning projects can be found.
 
 
-<img src="https://miro.medium.com/max/1000/1*yrgbW7GvOcp94f-5HZcmyQ.jpeg" width="400" height="400">
+<img src="https://github.com/kb1907/kb1907/assets/51021282/b4581a04-5335-4ab9-86a4-d80eeed696c0" width="400" height="400">
 
 -------------------------------------------------------
 
