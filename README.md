@@ -1,6 +1,6 @@
    Greetings from beautiful Finland.
 
-   As a Data Scientist, I love to make analyses, evaluations, predictions, develop strategies and new projects.
+   As a Data Scientist and Data Engineer, I love to make analyses, evaluations, predictions, develop strategies and new projects.
 
    I am eager to learn and share.
    
@@ -136,7 +136,7 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 - In this folder, Deep Learning Specialization projects and notes can be found.
 
 
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
+<img src="https://github.com/kb1907/kb1907/assets/51021282/19baf55e-c59f-4677-afe4-63ca5f82ab7f" width="300" height="300">
 
 -------------------------------------------------------
 
@@ -145,7 +145,7 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 - In this folder, Natural Language Processing Specialization projects and notes can be found.
 
 
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">
+<img src="https://github.com/kb1907/kb1907/assets/51021282/b9128907-05cf-4d37-95df-6b9ad2674730" width="300" height="300">
 
 -------------------------------------------------------
 
