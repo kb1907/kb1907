@@ -153,12 +153,12 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
 - In this folder, Practical Data Science Specialization projects and notes can be found.
 
-<img src="https://aikademi.com/wp-content/uploads/2018/01/deeplearning.png" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">, <img src="https://github.com/kb1907/kb1907/assets/51021282/19baf55e-c59f-4677-afe4-63ca5f82ab7f" width="300" height="300">
 
 -------------------------------------------------------
 
 ## [Kaggle](https://www.kaggle.com/kaanboke) 
-- I regulary publish beginner friendly notebooks on the Kaggle
+- I published several beginner-friendly DS/ML notebooks on the Kaggle for DS/ML aspirants.
 
 ------------
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=kb1907&show_icons=true&hide_border=true"/>
