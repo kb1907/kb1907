@@ -117,7 +117,6 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
 ![3](https://user-images.githubusercontent.com/51021282/175613078-b29479a9-f356-4b06-9e26-a340dac31b41.png)
 
-
 -------------------------------------------------------
 ## [Web Scraping Projects](https://github.com/kb1907/Web_Scraping_Projects/blob/main/README.md)
 
