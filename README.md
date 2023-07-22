@@ -162,7 +162,8 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
 -------------------------------------------------------
 
-## FastApi Model Deployment
+## [FastApi Model Deployment](https://github.com/kb1907/Fastapi-Model-Deployment-Sample-Project)
+- This repo contains Catboost Model Deployment with FastApi on the AWS.
 
 
 <!---
