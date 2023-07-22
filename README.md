@@ -161,6 +161,10 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
 
 -------------------------------------------------------
+
+## FastApi Model Deployment
+
+
 <!---
 kb1907/kb1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
