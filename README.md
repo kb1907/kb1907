@@ -1,6 +1,6 @@
    Greetings from beautiful Finland.
 
-   As a Data Scientist & Data Engineer, I love to make analyses, evaluations, predictions, develop strategies and new projects.
+   As a Data Scientist & Data Engineer, I love to make analyses, evaluations, and predictions, and develop strategies and new projects.
 
    I am eager to learn and share.
    
@@ -162,9 +162,6 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
 -------------------------------------------------------
 
-## [FastApi Model Deployment](https://github.com/kb1907/Fastapi-Model-Deployment-Sample-Project)
-- This repo contains Catboost Model Deployment with FastApi on the AWS.
-![image](https://github.com/kb1907/kb1907/assets/51021282/1ef1ff05-51c2-4a34-8497-c48e25883c87)
 
 
 <!---
