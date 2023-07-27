@@ -129,6 +129,12 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 
 ## Course Projects & Notes
 --------------------------------------------
+## [Generative-AI-with-Large-Language-Models by Deep Learning AI & AWS](https://github.com/kb1907/Generative-AI-with-Large-Language-Models)
+
+- In this folder, Generative AI with Large Language Models projects and notes can be found.
+
+ <img src="https://github.com/kb1907/kb1907/assets/51021282/19baf55e-c59f-4677-afe4-63ca5f82ab7f" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
+---------------------------------------------
 
 ## [Deep Learning Specialization - Updated Version](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
 
