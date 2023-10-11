@@ -100,7 +100,7 @@ Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS
 - In this folder, different scale NLP projects can be found.
 
 
-<img src="https://canopylab.com/wp-content/uploads/2019/11/shutterstock_1455391502-2.jpg" width="400" height="400">
+<img src="https://github.com/kb1907/kb1907/assets/51021282/b9128907-05cf-4d37-95df-6b9ad2674730" width="300" height="300">
 
 
 -------------------------------------------------------
