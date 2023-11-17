@@ -9,7 +9,6 @@
    [Let's connect on  Medium](https://medium.com/@kaanboke)
    
    All the best 🤘
-   
 -------------------------------------------------------
 ## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial)
 - Docker-Flask-GithubActions-DockerHub CI-CD folder for Data Scientist Trainees and DS Aspirants.
