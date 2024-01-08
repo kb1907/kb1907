@@ -58,7 +58,6 @@ Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS
 
 ![kubernete](https://user-images.githubusercontent.com/51021282/175279133-21fd9f3d-bedf-4cd8-96aa-c11262beaea9.png)
 
-
 -------------------------------------------------------
 ## [FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS CI-CD](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS)
 - FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS folder for Data Scientist Trainees and DS Aspirants.
