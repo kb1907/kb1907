@@ -122,7 +122,7 @@ Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
 - In this folder, different Web Scraping projects can be found.
 
 
-<img src="https://roboticsandautomationnews.com/wp-content/uploads/2020/04/web-scraping-2.png" width="450" height="400">
+<img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1587503051/web1_jpfixv.png" width="450" height="400">
 
 -------------------------------------------------------
 
