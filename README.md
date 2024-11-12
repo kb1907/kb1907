@@ -93,7 +93,7 @@ Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS
 
 - In this folder, different scale Data Science projects can be found.
 
-<img src="https://assets-global.website-files.com/5deb974b5176872b2c106aba/5e3c3add630a1585791ff8a9_4dda7c5dc3564bce88dfa5114c53a774.png" width="400" height="400">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mygreatlearning.com%2Fblog%2Fwhat-is-data-science%2F&psig=AOvVaw2zqcPbTPa0oWJD4mdxvRjh&ust=1731530824571000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMivi5TV14kDFQAAAAAdAAAAABAE" width="400" height="400">
 
 -------------------------------------------------------
 
