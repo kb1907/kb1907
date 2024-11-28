@@ -1,6 +1,6 @@
    Greetings from beautiful Finland.
 
-   As a Data  & ML Engineer, I love to make analyses, evaluations, and predictions, and develop strategies and new projects.
+   As a Data  and ML Engineer, I love to analyze, evaluate, and predict, as well as develop strategies and new projects.
 
    I am eager to learn and share.
 
