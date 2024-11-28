@@ -37,7 +37,7 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 
 ## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
 
-- In this folder, different scale Machine Learning / Deep Learning / NLP projects by using AWS Sagemaker can be found.
+- In this folder, different scale Machine Learning / Deep Learning / NLP projects that use AWS Sagemaker can be found.
 
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="400" height="400">
 
