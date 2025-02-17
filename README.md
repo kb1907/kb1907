@@ -8,7 +8,7 @@
   
    [Let's connect on  Medium](https://medium.com/@kaanboke)
    
-   All the best 🤘
+   All the best
    
 -------------------------------------------------------
 ## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial)
