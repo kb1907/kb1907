@@ -27,7 +27,7 @@ Airflow folder for Data Scientist Trainees and DS Aspirants.
 
 ## [PySpark Projects](https://github.com/kb1907/PySpark_Projects/blob/main/README.md)
 
-- In this folder, different scale PySpark projects can be found.
+- In this folder, different-scale PySpark projects can be found.
 
 
 ![](https://miro.medium.com/max/400/1*5C4UQznqEiN3D6Xutlgwlg.png)
