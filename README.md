@@ -1,176 +1,102 @@
-   Greetings from beautiful Finland.
+# Kaan Boke
 
-   As an AI & ML Engineer, I love analyzing, evaluating, predicting, and developing strategies and new projects.
+**Senior AI and Machine Learning Engineer | Finland**
 
-   I am eager to learn and share.
+I work on AI and machine learning systems, with a focus on how applications are designed, evaluated, and operated.
 
-   [Join me to learn and share in this magnificent learning journey.](https://www.linkedin.com/in/kaanboke/) [![Linkedin: Kaan BOKE](https://img.shields.io/badge/-KaanBOKE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaanboke/)](https://www.linkedin.com/in/kaanboke/) [![GitHub Kaan BOKE](https://img.shields.io/github/followers/kb1907?label=follow&style=social)](https://github.com/kb1907)
-  
-   [Let's connect on  Medium](https://medium.com/@kaanboke)
-   
-   All the best
+- **AI system architecture:** connecting models, data, tools, and application logic, with clear responsibilities and access boundaries.
+- **AI evaluation & reliability:** trace and error analysis, task outcomes, regression checks, and evidence for release decisions.
+- **Inference engineering:** exploring how memory, scheduling, and GPU execution affect serving capacity and response time.
 
+My professional AI projects are private. Below, you can inspect my earlier public implementations and read my current AI engineering explanations.
 
--------------------------------------------------------
-## [MLOPS - CI&CD TOOLS](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial)
-- Docker-Flask-GithubActions-DockerHub CI-CD folder for Data Scientist Trainees and DS Aspirants.
+## Selected Engineering Projects
 
-![Docker-githubactions](https://user-images.githubusercontent.com/51021282/174051288-78fa09d9-d4f3-47b1-8ef3-6a031e52bc99.png)
+Public code spanning model training, data processing, experiment tracking, and deployment automation.
 
--------------------------------------------------------
-## [AIRFLOW](https://github.com/kb1907/airflow-local)
+### [Model training & serving on AWS SageMaker](https://github.com/kb1907/AWS_Sagemaker)
 
-Airflow folder for Data Scientist Trainees and DS Aspirants.
+A random-forest example covering S3 data upload, training through the SageMaker Python SDK and Boto3, hyperparameter tuning, endpoint deployment, and prediction requests.
 
-![image](https://user-images.githubusercontent.com/51021282/194310346-48a21492-453e-4ec3-968a-a5b0d9424691.png)
+**Start with the code:** [Training and serving notebook](https://github.com/kb1907/AWS_Sagemaker/blob/main/AWS_Sagemaker_House_Prediction/AWSSagemaker_House_Prediction.ipynb).
 
--------------------------------------------------------
+### [Data processing & ML with PySpark](https://github.com/kb1907/PySpark_Projects)
 
-## [PySpark Projects](https://github.com/kb1907/PySpark_Projects/blob/main/README.md)
+Feature assembly, reusable ML pipelines, three-fold cross-validation, and regression evaluation. A companion SQL notebook covers joins and grouped aggregations.
 
-- In this folder, different-scale PySpark projects can be found.
+**Start with the code:** [Random-forest pipeline](https://github.com/kb1907/PySpark_Projects/blob/main/PySpark_RandomForest_Model/PySpark_with_RF_Car_Price.ipynb) · [Spark SQL analysis](https://github.com/kb1907/PySpark_Projects/blob/main/PySparkSQL_Project/PySparkSQL_Project_Listening.ipynb).
 
+### [Experiment tracking & model deployment](https://github.com/kb1907/mlflow-aws-sagemaker)
 
-![](https://miro.medium.com/max/400/1*5C4UQznqEiN3D6Xutlgwlg.png)
+CatBoost training with MLflow parameter, metric, and model logging, alongside separate SageMaker deployment and endpoint-invocation scripts.
 
--------------------------------------------------------
+**Start with the code:** [Training and tracking](https://github.com/kb1907/mlflow-aws-sagemaker/blob/main/aws-mlflow-exp.py) · [Deployment](https://github.com/kb1907/mlflow-aws-sagemaker/blob/main/deploy.py) · [Endpoint client](https://github.com/kb1907/mlflow-aws-sagemaker/blob/main/sagemaker-predict.py).
 
-## [AWS Sagemaker Projects](https://github.com/kb1907/AWS_Sagemaker/blob/main/README.md)
+### [Container packaging & CI/CD](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial)
 
-- In this folder, different-scale Machine Learning / Deep Learning / NLP projects that use AWS Sagemaker can be found.
+A Flask prediction app with Docker packaging and a GitHub Actions workflow defining linting, a prediction test, and image build/push stages.
 
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="400" height="400">
+**Start with the code:** [Application](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial/blob/main/app.py) · [Dockerfile](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial/blob/main/Dockerfile) · [CI/CD workflow](https://github.com/kb1907/GithubActions-DockerHub-CICD-Tutorial/blob/main/.github/workflows/github-docker-cicd.yaml).
 
--------------------------------------------------------
-## [MLFLOW - AWS SAGEMAKER](https://github.com/kb1907/mlflow-aws-sagemaker)
+These are earlier learning and implementation projects; their dependencies and deployment instructions reflect their original environments.
 
-Mlflow- AWS Sagemaker folder for Data Scientist Trainees and DS Aspirants.
+## AI Engineering Writing
 
-![MLflow-models](https://user-images.githubusercontent.com/51021282/174875305-9b18954d-9ea3-468b-96da-bc713f5e27a8.jpeg)
+I share the reasoning behind AI system behavior, architecture choices, and evaluation methods through articles and diagrams.
 
+### [Inside vLLM: how the serving engine fits together](https://kaanboke.substack.com/p/inside-vllm-how-the-serving-engine)
 
--------------------------------------------------------
-## [AWS Beanstalk - Github Actions](https://github.com/kb1907/Model-Deployment-AWS-Beanstalk)
+How memory allocation, prefix caching, scheduling, and GPU execution interact, and why higher throughput can still mean slower replies. Includes a worked serving example.
 
-![](https://user-images.githubusercontent.com/51021282/173590483-9ed2e97d-80b1-4633-9e89-876ad6f7c35e.png)
+<details>
+<summary>View the vLLM engine diagram</summary>
 
--------------------------------------------------------
+<a href="https://kaanboke.substack.com/p/inside-vllm-how-the-serving-engine"><img src="assets/vllm_engine.png" width="720" alt="Conceptual vLLM engine loop: KV-cache reuse and allocation inform scheduling within token and memory limits. GPU execution receives the work plan and block mappings; results inform the next step. Higher throughput can still mean slower replies."></a>
 
-## [Kubernetes-Flask-Docker-Github Actions](https://github.com/kb1907/Kubernetes-Flask)
-Kubernetes-Docker-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
+*Simplified overview of the vLLM engine loop. Select the diagram to read the article.*
 
-![kubernete](https://user-images.githubusercontent.com/51021282/175279133-21fd9f3d-bedf-4cd8-96aa-c11262beaea9.png)
+</details>
 
--------------------------------------------------------
-## [FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS CI-CD](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS)
-- FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS folder for Data Scientist Trainees and DS Aspirants.
+### [AI system evaluation: beyond the response](https://www.linkedin.com/feed/update/urn:li:activity:7521104073664729088/)
 
-![](https://user-images.githubusercontent.com/51021282/173734402-0470c77e-c9e8-4db9-93ba-14b46b9dc21e.png)
+Checking whether an application actually completed the requested action, with explicit deadlines, unknown outcomes, and regression checks.
 
+### [AI system architecture: Who owns your business definitions?](https://www.linkedin.com/feed/update/urn:li:activity:7517986079417868288/)
 
--------------------------------------------------------
+Connecting approved business definitions, AI context, controlled query tools, and evaluation so an assistant and a dashboard use consistent meaning.
 
- ## [Machine Learning Projects](https://github.com/kb1907/Machine_Learning_Projects/blob/main/README.md)
+## Earlier Projects & Learning Resources
 
-- In this folder, different-scale machine learning projects can be found.
+<details>
+<summary>Browse more projects and course notes</summary>
 
+### Machine Learning & Data
 
-![](https://miro.medium.com/max/600/0*QYxNNYh6W9jO1b_-.png)
+- [Machine Learning Projects](https://github.com/kb1907/Machine_Learning_Projects)
+- [Deep Learning Projects](https://github.com/kb1907/Deep_Learning_Projects)
+- [NLP Projects](https://github.com/kb1907/NLP_Projects)
+- [Time Series Projects](https://github.com/kb1907/Time_Series_Projects)
+- [Data Science Projects & Exploratory Analysis](https://github.com/kb1907/Data_Science_Projects)
+- [Web Scraping Projects](https://github.com/kb1907/Web_Scraping_Projects)
 
--------------------------------------------------------
+### Deployment & Workflow Tooling
 
-## [Deep Learning Projects](https://github.com/kb1907/Deep_Learning_Projects/blob/main/README.md)
+- [Airflow](https://github.com/kb1907/airflow-local)
+- [AWS Elastic Beanstalk & GitHub Actions](https://github.com/kb1907/Model-Deployment-AWS-Beanstalk)
+- [Kubernetes, Flask & Docker](https://github.com/kb1907/Kubernetes-Flask)
+- [FastAPI, Heroku & GitHub Actions](https://github.com/kb1907/FASTAPI-CI-CD-HEROKU-GITHUB-ACTIONS)
+- [Locust & Flask](https://github.com/kb1907/Locust-Flask)
 
-- In this folder, different scale Deep Learning projects can be found.
+### Course Projects & Notes
 
+- [Generative AI with Large Language Models](https://github.com/kb1907/Generative-AI-with-Large-Language-Models)
+- [Deep Learning Specialization](https://github.com/kb1907/Deep-Learning-Specialization)
+- [Natural Language Processing Specialization](https://github.com/kb1907/Natural-Language-Processing-Specialization)
+- [Practical Data Science on the AWS Cloud](https://github.com/kb1907/Practical-Data-Science-Specialization)
+- [Kaggle Notebooks](https://www.kaggle.com/kaanboke)
 
-<img src="https://github.com/kb1907/kb1907/assets/51021282/b4581a04-5335-4ab9-86a4-d80eeed696c0" width="400" height="400">
+</details>
 
--------------------------------------------------------
+## Writing & Contact
 
-## [Data Science Projects - Detailed EDAs](https://github.com/kb1907/Data_Science_Projects/blob/main/README.md)
-
-- In this folder, different scale Data Science projects can be found.
-
-<img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg" width="400" height="400">
-
--------------------------------------------------------
-
-## [NLP Projects](https://github.com/kb1907/NLP_Projects/blob/main/README.md)
-
-- In this folder, different scale NLP projects can be found.
-
-
-<img src="https://github.com/kb1907/kb1907/assets/51021282/b9128907-05cf-4d37-95df-6b9ad2674730" width="300" height="300">
-
--------------------------------------------------------
-
-## [Time Series Projects](https://github.com/kb1907/Time_Series_Projects/blob/main/README.md)
-
-- In this folder, different scale Time Series projects can be found.
-
-<img src="https://www.vskills.in/certification/blog/wp-content/uploads/2014/11/Forecasting.jpg" width="400" height="400">
-
--------------------------------------------------------
-## [LOCUST - FLASK](https://github.com/kb1907/Locust-Flask)
-Locust-Flask-Github Actions folder for Data Scientist Trainees and DS Aspirants.
-
-![3](https://user-images.githubusercontent.com/51021282/175613078-b29479a9-f356-4b06-9e26-a340dac31b41.png)
-
--------------------------------------------------------
-## [Web Scraping Projects](https://github.com/kb1907/Web_Scraping_Projects/blob/main/README.md)
-
-- In this folder, different Web Scraping projects can be found.
-
-
-<img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1587503051/web1_jpfixv.png" width="450" height="400">
-
--------------------------------------------------------
-
-## Course Projects & Notes
---------------------------------------------
-## [Generative-AI-with-Large-Language-Models by Deep Learning AI & AWS](https://github.com/kb1907/Generative-AI-with-Large-Language-Models)
-
-- In this folder, Generative AI with Large Language Models projects and notes can be found.
-
- <img src="https://github.com/kb1907/kb1907/assets/51021282/19baf55e-c59f-4677-afe4-63ca5f82ab7f" width="300" height="300">, <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">
----------------------------------------------
-
-## [Deep Learning Specialization - Updated Version](https://github.com/kb1907/Deep-Learning-Specialization/blob/main/README.md)
-
-- In this folder, Deep Learning Specialization projects and notes can be found.
-
-
-<img src="https://github.com/kb1907/kb1907/assets/51021282/19baf55e-c59f-4677-afe4-63ca5f82ab7f" width="300" height="300">
-
--------------------------------------------------------
-
-## [Natural Language Processing Specialization - Updated Version](https://github.com/kb1907/Natural-Language-Processing-Specialization/blob/main/README.md)
-
-- In this folder, Natural Language Processing Specialization projects and notes can be found.
-
-
-<img src="https://github.com/kb1907/kb1907/assets/51021282/b9128907-05cf-4d37-95df-6b9ad2674730" width="300" height="300">
-
--------------------------------------------------------
-
-## [Practical Data Science on the AWS Cloud Specialization](https://github.com/kb1907/Practical-Data-Science-Specialization/blob/main/README.md)
-
-- In this folder, Practical Data Science Specialization projects and notes can be found.
-
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" width="300" height="300">, <img src="https://github.com/kb1907/kb1907/assets/51021282/19baf55e-c59f-4677-afe4-63ca5f82ab7f" width="300" height="300">
-
--------------------------------------------------------
-
-## [Kaggle](https://www.kaggle.com/kaanboke) 
-- I published several beginner-friendly DS/ML notebooks on the Kaggle for DS/ML aspirants.
-
-
--------------------------------------------------------
-
-
-
-<!---
-kb1907/kb1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/kaanboke/) · [Substack](https://kaanboke.substack.com/) · [Medium](https://medium.com/@kaanboke)
